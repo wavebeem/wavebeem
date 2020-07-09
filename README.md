@@ -1,6 +1,6 @@
 ### Test 👋
 
-<img alt="" align="center" src="2bit-slimeagotchi_platinum.gif" width="100" height="100">
+<img alt="" align="center" width="320" height="320" src="https://raw.githubusercontent.com/wavebeem/wavebeem/master/2bit-slimeagotchi_platinum.gif">
 
 <!--
 **wavebeem/wavebeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
