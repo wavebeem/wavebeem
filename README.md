@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="" align="center" src="2bit-slimeagotchi_platinum.gif">
+
 <!--
 **wavebeem/wavebeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
