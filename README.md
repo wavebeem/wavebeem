@@ -9,7 +9,7 @@
     alt=""
     width="128"
     height="128"
-    src="https://raw.githubusercontent.com/wavebeem/wavebeem/master/slime-love.gif"
+    src="https://raw.githubusercontent.com/wavebeem/wavebeem/master/slime-love2.gif"
   >
 </p>
 
