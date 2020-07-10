@@ -1,8 +1,10 @@
 ### Test 👋
 
 <!-- <img alt="" align="left" width="320" height="320" src="https://raw.githubusercontent.com/wavebeem/wavebeem/master/1bit_slimeagotchi.gif"> -->
-<img alt="" align="left" width="320" height="320" src="https://raw.githubusercontent.com/wavebeem/wavebeem/master/2bit-slimeagotchi_platinum.gif">
-<img alt="" align="left" width="320" height="320" src="https://raw.githubusercontent.com/wavebeem/wavebeem/master/2bit-gbc_slimeagotchi.gif">
+<!-- <img alt="" align="left" width="320" height="320" src="https://raw.githubusercontent.com/wavebeem/wavebeem/master/2bit-slimeagotchi_platinum.gif"> -->
+<!-- <img alt="" align="left" width="320" height="320" src="https://raw.githubusercontent.com/wavebeem/wavebeem/master/2bit-gbc_slimeagotchi.gif"> -->
+
+<img alt="" align="center" width="256" height="128" src="https://raw.githubusercontent.com/wavebeem/wavebeem/master/slime-love.gif">
 
 <!--
 **wavebeem/wavebeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
